@@ -20,7 +20,7 @@ At NeoSolutions AI, I design and deploy automation that closes that gap: intelli
 
 ## Stack
 
-`OpenAI SDK` · `CrewAI` · `LangGraph` · `Gradio` · `Make.com` · `Gemini API` · `Python` · `GitHub Actions`
+`OpenAI SDK` · `CrewAI` · `LangGraph` · `Gradio` · `Make.com` · `Gemini API` ·`OpenRouter API` · `Python` · `GitHub Actions`
 
 ---
 
